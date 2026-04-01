@@ -5,7 +5,7 @@ layout: default
 # 👅 Laptop Slap Controller
 Physical feedback for the modern era.
 
-[DOWNLOAD NOW](YOUR_RELEASE_LINK_HERE){: .download-btn }
+[DOWNLOAD NOW](https://github.com/carouljimmy-sketch/LemmeSlap/releases/download/v1.0.0/LemmeSlap.exe){: .download-btn }
 
 ### 🛠️ Quick Instructions
 1. Run the Setup.
