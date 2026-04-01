@@ -15,4 +15,4 @@
 * **Sensitivity Control:** Works with almost any laptop microphone.
 * **Low Impact:** Tiny memory footprint; stays out of your way.
 
----
+-------
