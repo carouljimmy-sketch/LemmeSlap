@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Quick Start
-1. **[DOWNLOAD THE INSTALLER HERE](PASTE_YOUR_RELEASE_LINK_HERE)**
+1. **[DOWNLOAD THE INSTALLER HERE](https://github.com/carouljimmy-sketch/LemmeSlap/releases/download/v1.0.0/LemmeSlap.exe)**
 2. Run the `setup.exe`.
 3. When the blue "Windows Protected your PC" box appears, click **More Info** then **Run Anyway**.
 4. Set your sensitivity and hit **Start Detection**.
